@@ -4,7 +4,6 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "8d4b4feb048277b50f1d95a289dad3e0",
     "content-hash": "85677501dca45c0b473c524c2f1a82b0",
     "packages": [
         {
@@ -55,7 +54,7 @@
                 "container",
                 "dependency injection"
             ],
-            "time": "2017-07-23 07:32:15"
+            "time": "2017-07-23T07:32:15+00:00"
         },
         {
             "name": "psr/container",
@@ -104,7 +103,7 @@
                 "container-interop",
                 "psr"
             ],
-            "time": "2017-02-14 16:28:37"
+            "time": "2017-02-14T16:28:37+00:00"
         },
         {
             "name": "psr/log",
@@ -151,7 +150,7 @@
                 "psr",
                 "psr-3"
             ],
-            "time": "2016-10-10 12:19:37"
+            "time": "2016-10-10T12:19:37+00:00"
         },
         {
             "name": "silex/silex",
@@ -240,7 +239,7 @@
             "keywords": [
                 "microframework"
             ],
-            "time": "2017-07-23 07:40:14"
+            "time": "2017-07-23T07:40:14+00:00"
         },
         {
             "name": "symfony/debug",
@@ -296,7 +295,7 @@
             ],
             "description": "Symfony Debug Component",
             "homepage": "https://symfony.com",
-            "time": "2017-11-10 16:38:39"
+            "time": "2017-11-10T16:38:39+00:00"
         },
         {
             "name": "symfony/event-dispatcher",
@@ -359,7 +358,7 @@
             ],
             "description": "Symfony EventDispatcher Component",
             "homepage": "https://symfony.com",
-            "time": "2017-11-05 15:47:03"
+            "time": "2017-11-05T15:47:03+00:00"
         },
         {
             "name": "symfony/http-foundation",
@@ -412,7 +411,7 @@
             ],
             "description": "Symfony HttpFoundation Component",
             "homepage": "https://symfony.com",
-            "time": "2017-11-13 18:13:16"
+            "time": "2017-11-13T18:13:16+00:00"
         },
         {
             "name": "symfony/http-kernel",
@@ -498,7 +497,7 @@
             ],
             "description": "Symfony HttpKernel Component",
             "homepage": "https://symfony.com",
-            "time": "2017-11-16 18:14:43"
+            "time": "2017-11-16T18:14:43+00:00"
         },
         {
             "name": "symfony/polyfill-mbstring",
@@ -557,7 +556,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2017-10-11 12:05:26"
+            "time": "2017-10-11T12:05:26+00:00"
         },
         {
             "name": "symfony/routing",
@@ -635,7 +634,7 @@
                 "uri",
                 "url"
             ],
-            "time": "2017-11-07 14:16:22"
+            "time": "2017-11-07T14:16:22+00:00"
         }
     ],
     "packages-dev": [],
